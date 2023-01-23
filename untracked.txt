@@ -1,1 +1,3 @@
 "untracked"
+
+"commit for reset hard with commit SHA"

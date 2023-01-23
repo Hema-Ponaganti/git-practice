@@ -1,3 +1,5 @@
 "first commit"
 
 "add unstaged changes for reset"
+
+"commit for reset hard with commit SHA"
