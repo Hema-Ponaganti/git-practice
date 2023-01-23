@@ -8,4 +8,4 @@
 
 "commit #1 for reset hard with commit SHA"
 
-"commit for reset activity"
+"commit for revert activity"
