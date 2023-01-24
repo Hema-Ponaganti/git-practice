@@ -11,3 +11,5 @@
 "commit 2 squash#2"
 
 "commit 3 squash#3"
+
+"commit 4 squash#4"
