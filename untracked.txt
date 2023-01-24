@@ -3,3 +3,6 @@
 "commit for reset hard with commit SHA"
 
 "commit from feature 1"
+
+"commit 1 from feature 1"
+
