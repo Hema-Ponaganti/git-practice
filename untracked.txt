@@ -1,3 +1,5 @@
 "untracked"
 
 "commit for reset hard with commit SHA"
+
+"commit from feature 1"
